@@ -1,0 +1,21 @@
+{
+  "name": "server2",
+  "version": "0.6.9",
+  "description": "SHH IT IS A SECRET",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "William T",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6"
+  },
+  "engines": {
+    "node": "6.2.2"
+  }
+}
